@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://X.com/abdul1mannan" target="blank">
-    <img src="https://img.shields.io/X/follow/?logo=X&style=for-the-badge" alt="X" />
+  <a href="https://x.com/" target="blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://linkedin.com/in/abdul1mannan" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +21,7 @@
   <a href="https://www.codechef.com/users/abdul1mannan" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/abdul0mannan" target="blank">
+  <a href="https://codeforces.com/profile/abdul1mannan" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul1mannan&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdul1mannan&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -76,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abdul1mannan&bg_color=1a1b27&color=36BCF7&line=5BCDEC&point=F7F7F7" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul1mannan&bg_color=1a1b27&color=36BCF7&line=5BCDEC&point=F7F7F7" alt="GitHub Activity Graph" />
 </p>
