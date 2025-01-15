@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Mannan</h1>
-<h3 align="center">A passionate web developer and programmer!</h3>
+<h3 align="center">A passionate web developer and programmer, crafting solutions to modern problems!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Web+Developer+%7C+Programmer;Let's+build+amazing+projects+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Web+Developer+%7C+Problem+Solver;Let's+create+something+amazing!" />
 </p>
 
 <p align="center"> 
