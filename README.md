@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/abdul1mannan" target="blank">
+  <a href="https://x.com/abdul0mannan" target="blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://linkedin.com/in/abdul1mannan" target="blank">
