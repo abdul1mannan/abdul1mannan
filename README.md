@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/" target="blank">
+  <a href="https://x.com/abdul1mannan" target="blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://linkedin.com/in/abdul1mannan" target="blank">
@@ -21,7 +21,7 @@
   <a href="https://www.codechef.com/users/abdul1mannan" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/abdul1mannan" target="blank">
+  <a href="https://codeforces.com/profile/abdul9mannan" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
