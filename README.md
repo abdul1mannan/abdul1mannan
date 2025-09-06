@@ -2,6 +2,14 @@
 <h3 align="center">A passionate web developer and programmer, crafting solutions to modern problems!</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdul1mannan&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  🌐 <strong><a href="https://abdulmannan.dev/" target="_blank">Visit My Portfolio</a></strong> 🌐
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Web+Developer+%7C+Problem+Solver;Let's+create+something+amazing!" />
 </p>
 
@@ -26,6 +34,7 @@
   </a>
 </p>
 
+- 🌐 Portfolio: **[abdulmannan.dev](https://abdulmannan.dev/)**
 - 📫 How to reach me: **mannan.jnv123@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
